@@ -1,0 +1,21 @@
+
+body{
+	font-family: 'Quicksand', sans-serif;
+	color: #000066;
+}
+
+.title_logo{
+	margin-top: 20px;
+
+}
+.hr{
+	height: 10px;
+	color: #6699ff;
+}
+.portfoliomainimage h3{
+	color: #af0010;
+}
+
+.portfolioprojectlinks {
+	text-transform: capitalize;
+}

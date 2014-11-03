@@ -1,0 +1,29 @@
+
+*{
+	box-sizing: border-box;
+	margin: 0 auto;
+}
+.body{
+	background-color: gray;
+}
+
+.title_bar{
+	display: flex;
+}
+.title {
+	color: #ff0015;
+	font: 18px arial, san-serif;
+
+}
+
+.portfoliomainimage {
+	height: 200px;
+	width: 100px;
+}
+.portfoliomainimage h3{
+	color: #af0010;
+}
+
+.portfolioprojectlinks {
+	text-transform: capitalize;
+}
